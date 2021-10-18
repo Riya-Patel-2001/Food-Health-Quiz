@@ -1,0 +1,103 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "3 About half of your diet should be made up of __________.",
+            "option1": "Grains And Vegetables",
+            "option2": "Fruits And Milk",
+            "option3": "Milk And Cheese",
+            "option4": "Fats And Sugars",
+            "answer": "Grains And Vegetables"
+        },
+
+        {
+            "id": 2,
+            "question": "5 This food group is our body's best source of energy?",
+            "option1": "Meat Group",
+            "option2": "Fats,Oils And Sweets",
+            "option3": "Breads And Cereals",
+            "option4": "Milk And Cheese",
+            "answer": "Breads And Cereals"
+        },
+
+        {
+            "id": 3,
+            "question": "7 The bread, cereal, rice and pasta group is a good source of _______?",
+            "option1": "carbohydrate",
+            "option2": "vitamin C",
+            "option3": "calcium",
+            "option4": "vitamin D",
+            "answer": "carbohydrate"
+        },
+
+        {
+            "id": 4,
+            "question": "8 Foods from the meat, poultry, fish dry beans, eggs and nuts group are an important source of ________?",
+            "option1": "Iron",
+            "option2": "Fiber",
+            "option3": "Beta Carotene",
+            "option4": "Calcium",
+            "answer": "Iron"
+        },
+
+        {
+            "id": 5,
+            "question": "The milk, cheese & yogurt group are important for ________?",
+            "option1": "Strong Bones",
+            "option2": "Teeth",
+            "option3": "Muscles",
+            "option4": "All Of The Above",
+            "answer": "All Of The Above"
+        },
+
+        {
+            "id": 6,
+            "question": "How many servings of vegetables do we need each day?",
+            "option1": "6-11",
+            "option2": "2-3",
+            "option3": "3-5",
+            "option4": "1-2",
+            "answer": "3-5"
+        },
+
+        {
+            "id": 7,
+            "question": "4 Milk, cheese and eggs are the sources of",
+            "option1": "Vitamin C and A",
+            "option2": "Vitamin A and D",
+            "option3": "Vitamin C and D",
+            "option4": "Vitamin B and C",
+            "answer": "Vitamin A and D"
+        },
+
+        {
+            "id":8,
+            "question": "13 Which of the following has the highest calorific value ?",
+            "option1": "Carbohydrates",
+            "option2": "Fats",
+            "option3": "Proteins",
+            "option4": "Vitamins",
+            "answer": "Fats"
+        },
+
+        {
+            "id": 9,
+            "question": "16 Which of the following is considered an easily digestible source of protein?",
+            "option1": "Egg albumin",
+            "option2": "Soyabean",
+            "option3": "Fish flesh",
+            "option4": "Red meat",
+            "answer": "Soyabean"
+        },
+
+        {
+            "id": 10,
+            "question": "8 Which of the following works with calcium to build strong bones",
+            "option1": "Vitamin D",
+            "option2": "Vitamin C",
+            "option3": "Phosphorus",
+            "option4": "Iron",
+            "answer": "Vitamin D"
+        }
+    ]
+}

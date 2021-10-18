@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+body{
+    font-family: 'JetBrains Mono', monospace !important;
+}
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+#container{
+    margin-top: 10%;
+}
+
+ul{
+    text-align: left;
+}
+
+#question{
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+
+.choice{
+    margin: 10px;
+}
+
+.row{
+    width: 50%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+#mainArea{
+    display: none;
+}
+
+#lastPage{
+    display: none;
+}
+
+#btnStart{
+    margin: 5%;
+}
+
+#name{
+    margin-top: 20px;
+}
+
+#btnRetry{
+    margin: 30px;
+}
+
+#btnClose{
+    margin: 30px;
+}
+
+.btn-outline-secondary{
+    color: black !important;
+    background-color: #f2e9d8 !important;
+}
+
+.btn-outline-secondary:hover{
+    background-color: #f2e9d8 !important;
+}
+
+.btn-outline-dark{
+    font-weight: bold !important;
+    color: #192340 !important;
+    background-color: #8ba5d9 !important;
+}
+
+.btn-outline-dark:hover{
+    background-color: #192340 !important;
+    color: #f2e9d8 !important;
+}
+
+.correctAnswer {
+    background-color: green !important;
+}
+
+.wrongAnswer {
+    background-color: red !important;
+}
+
+#btnFinish{
+    display: none;
+}
+
+
